@@ -1,1 +1,10 @@
+# 铁拳7mod管理工具--2019-09-09
+# 文字游戏 翻译君 使用说明 2019-08-28
 
+
+### 铁拳7mod管理工具 QQ群 [38552538](https://shang.qq.com/wpa/qunwpa?idkey=750821134ca5569c2215b66c9593df40851d615fe92aa5633af297a6cba96420) [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 或git根目录
+>#### 最新消息
+```
+2019-09-09 
+积极开发中...敬请期待!
+```
