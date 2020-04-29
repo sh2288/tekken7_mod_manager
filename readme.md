@@ -1,5 +1,5 @@
 # 铁拳7_MOD_自动安装管理器_BY_sh2288--2019-09-12
-
+![image](https://img.shields.io/badge/最新版本-2019--09--22-orange)  ![image](https://img.shields.io/badge/官方QQ群-535577907-ff69b4?style=flat&logo=tencent-qq)  ![image](https://img.shields.io/badge/.NET-4.5.2-brightgreen?style=flat&logo=.net) ![image](https://img.shields.io/badge/windows/xp/7/8/10-x86/x64-blue?style=flat&logo=windows)
 ### 铁拳7_MOD_自动安装管理器 QQ群 [535577907](https://shang.qq.com/wpa/qunwpa?idkey=9bc38adf175aa1ed42958a3ecadb73738b8709b04b4d9418fb8538ee9056bd62) [度盘提取码:还未上传](https://pan.baidu.com/s/) 或git根目录
 ![image](QQ图片20190909131357.png)
 >#### 最新消息
